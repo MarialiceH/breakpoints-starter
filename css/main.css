@@ -1,0 +1,14 @@
+
+/* ----------- For screens 768px Tablets and larger ----------- */
+@media (min-device-width: 768px) {
+  body {
+    background: pink;
+  }
+}
+
+/* ----------- For screens 1200px Desktop wide and larger----------- */
+@media (min-device-width: 1200px) {
+  body {
+    background: blue;
+  }
+}
